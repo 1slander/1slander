@@ -2,11 +2,11 @@
 
 Thank you for checking my GitHub profile. I am a Junior Full Stack Developer on the making base in the UK with a background in music and the creative industry.
 
-On 2022, I decided to start learning Web Development through some Udemy courses, but was later on that I did discover <strong>The Odin Project</strong> and started working on the foundations.
+On 2022 I decided to start learning Web Development, through research I did discover <strong>The Odin Project</strong> and started working on the foundations, reading through the theory and different materials as well as working on the different projects.
 
-At the beginning of 2023, I decided that I was loving all the things that I was learning by myself and I was ready to move on to the next step.
+At the beginning of 2023, as I was loving all the things that I was learning by myself and I decide that I was ready to move on to the next step.
 
-I am currently enrolled on the IronHack Web Developer bootcamp as they have a <strong> solid and well structure program</strong> that without any doubt will help me improve <strong>my knowlegde </strong> and <strong>build new and stronger connections with future colleagues who share the same passion</strong>.
+I am currently enrolled on the <strong>IronHack Web Developer bootcamp</strong> as they have a <strong> solid and well structure program</strong> that without any doubt will help me improve <strong>my knowlegde </strong> and <strong>build new and stronger connections with future colleagues who share the same passion</strong>.
 
 ## Projects:
 
