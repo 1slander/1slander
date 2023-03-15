@@ -8,6 +8,18 @@ At the beginning of 2023, I decided that I was loving all the things that I was 
 
 I am currently enrolled on the IronHack Web Developer bootcamp as they have a <strong> solid and well structure program</strong> that without any doubt will help me improve <strong>my knowlegde </strong> and <strong>build new and stronger connections with future colleagues who share the same passion</strong>.
 
+## Projects:
+
+ ###  Ironhack Bootcamp:
+
+Wild Wild Poo Game Project: https://1slander.github.io/Game_Project/
+
+ ###  The Odin Project:
+
+Rock Paper Scisors: https://1slander.github.io/TOP-Rock-Paper-Scissors/
+<br>
+Etch-a-Sketch: https://1slander.github.io/TOP-Etch-A-Sketch/
+
 ## Technologies:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
