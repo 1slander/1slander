@@ -13,6 +13,8 @@ I am currently enrolled on the <strong>IronHack Web Developer bootcamp</strong> 
 
 Wild Wild Poo Game Project: https://1slander.github.io/Game_Project/
 
+Second Serving Food Wastage App: https://real-cyan-coati-tutu.cyclic.app/
+
  ###  The Odin Project:
 
 Rock Paper Scisors: https://1slander.github.io/TOP-Rock-Paper-Scissors/
