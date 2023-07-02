@@ -1,19 +1,22 @@
 ## Hi! I'm Hector Gonzalez :smile: 
 
-Thank you for checking my GitHub profile. I am a Junior Full Stack Developer on the making base in the UK with a background in music and the creative industry.
+Thank you for checking my GitHub profile. I am a Junior Full Stack Developer base in the UK with a background in music and the creative industry.
 
-On 2022 I decided to start learning Web Development, through research I did discover <strong>The Odin Project</strong> and started working on the foundations, reading through the theory and different materials as well as working on the different projects.
+On 2021 I decided to start learning Web Development as a self-taught. Through research I did discover <strong>The Odin Project</strong> and started working on the foundations, reading through the theory and different materials as well as working on the different projects.
 
-At the beginning of 2023, as I was loving all the things that I was learning, I felt ready to move on to the next step.
-I am currently enrolled on the <strong>IronHack Web Developer bootcamp</strong> as they have a <strong> solid and well structure program</strong> that without any doubt will help me improve <strong>my knowlegde </strong> and <strong>build new and stronger connections with future colleagues who share the same passion as me</strong>.
+At the beginning of 2023, I felt ready to move on to the next step.
+I did enroll on the <strong>IronHack Web Developer bootcamp</strong> as they have a <strong> solid and well structure program</strong> that without any doubt have help me improve <strong>my knowlegde </strong> and <strong>build new and stronger connections with future colleagues who share the same passion as me</strong>.
 
 ## Projects:
 
- ###  Ironhack Bootcamp:
+ ###  Main:
 
 Wild Wild Poo Game Project: https://1slander.github.io/Game_Project/
 
 Second Serving Food Wastage App: https://real-cyan-coati-tutu.cyclic.app/
+
+
+This are some of my first projects I did, they were quite challenging, but I did learnt a lot.
 
  ###  The Odin Project:
 
