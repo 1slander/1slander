@@ -11,7 +11,7 @@ I did enroll on the <strong>IronHack Web Developer bootcamp</strong> as they hav
 
  ###  Main:
 
-Wild Wild Poo Game Project: https://1slander.github.io/Game_Project/
+Wild Wild Poo Game Project: https://1slander.github.io/Wild_Wild_Poo-HTMLGame/
 
 Second Serving Food Wastage App: https://real-cyan-coati-tutu.cyclic.app/
 
