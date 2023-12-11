@@ -24,7 +24,7 @@ Rock Paper Scisors: https://1slander.github.io/TOP-Rock-Paper-Scissors/
 <br>
 Etch-a-Sketch: https://1slander.github.io/TOP-Etch-A-Sketch/
 
-## Lenguages:
+## Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1slander&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies:
